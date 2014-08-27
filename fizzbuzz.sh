@@ -1,4 +1,6 @@
 #!/bin/bash
+# usage:
+# bash fizzbuzz.sh
 
 for i in {1..100}
 do
