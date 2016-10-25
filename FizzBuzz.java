@@ -1,6 +1,6 @@
 / usage:
-/ javac FizzBuzz.java
-/ java FizzBuzz
+/ # javac FizzBuzz.java
+/ # java FizzBuzz
 
 public class FizzBuzz {
     public static void FizzBuzz() {
