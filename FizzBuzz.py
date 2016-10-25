@@ -1,9 +1,9 @@
 '''
 usage:
-python3 fizzbuzz.py
+python3 FizzBuzz.py
 '''
 
-def fizzbuzz():
+def FizzBuzz():
     for i in range(1,101):
         if   i%3 == 0 and i%5 == 0 : print('FizzBuzz')
         elif i%3 == 0              : print('Fizz')
@@ -11,4 +11,4 @@ def fizzbuzz():
         else                       : print(i)
 
 if __name__ == '__main__':
-    fizzbuzz()
+    FizzBuzz()
