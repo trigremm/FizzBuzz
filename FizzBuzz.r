@@ -1,5 +1,5 @@
 # usage:
-# Rscript fizzbuzz.r
+# Rscript FizzBuzz.r
 
 FizzBuzz <- function() {
     for (i in 1:100){
