@@ -1,8 +1,8 @@
 #!/bin/bash
 # usage:
-# bash fizzbuzz.sh
+# # bash FizzBuzz.sh
 
-function fizzbuzz () {
+function FizzBuzz () {
     for i in {1..100}
     do
         let j=$i%3
@@ -18,4 +18,4 @@ function fizzbuzz () {
     done
 }
 
-fizzbuzz
+FizzBuzz
