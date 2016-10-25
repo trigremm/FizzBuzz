@@ -1,6 +1,6 @@
 '''
 usage:
-python3 FizzBuzz.py
+# python3 FizzBuzz.py
 '''
 
 def FizzBuzz():
