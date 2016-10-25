@@ -1,5 +1,5 @@
 /* usage:
- * g++ fizzbuzz.cpp
+ * g++ FizzBuzz.cpp
  * ./a.out
  */
 
@@ -7,7 +7,7 @@
 using namespace std;
 
 
-void fizzbuzz () {
+void FizzBuzz () {
    for (int i = 1; i <= 100; i++){
        if      (i%3 == 0 && i%5 == 0) cout << "FizzBuzz";
        else if (i%3 == 0)             cout << "Fizz";
@@ -19,6 +19,6 @@ void fizzbuzz () {
 
 
 int main(){
-    fizzbuzz ();   
+    FizzBuzz ();   
     return 0;
 }
