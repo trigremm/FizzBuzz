@@ -1,2 +1,2 @@
-fizzbuzz
+FizzBuzz
 ========
